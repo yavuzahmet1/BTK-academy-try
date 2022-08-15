@@ -1,1 +1,3 @@
 ilk test repomuz.
+
+ikinci commitimiz.
